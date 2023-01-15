@@ -3,6 +3,7 @@
 This course will explore principles and applications of data ethics within a broader social framework that prioritizes conversations about policy, regulatory frameworks, accountability, transparency, and governance models. Thinking as data scientists, we will discuss who is responsible for doing responsible data science, question how our work shapes the world around us, and understand the impacts of big data on people and communities.
 
 When: Thursday, 3:30-6:00 pm (in-person)
+
 Where: Gilmer Hall 257
 
 Jess Reia, Ph.D. (they/them)
