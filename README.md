@@ -6,12 +6,15 @@ When: Thursday, 3:30-6:00 pm (in-person)
 
 Where: Gilmer Hall 257
 
-Jess Reia, Ph.D. (they/them)
-Email: reia@virginia.edu
-Office hours: Tuesday and Thursday 2:30-3:00 or by appointment
-Location: Elson, 400 Brandon Ave, Room 189B
+* Jess Reia, Ph.D. (they/them)
 
-TA: Kate Meldrum (she/her)
+Email: reia@virginia.edu
+
+Office hours: Tuesday and Thursday 2:00-3:00 or by appointment. 
+Feel free to just come by and hang out if you'd like. Location: Elson, 400 Brandon Ave, Room 189B
+
+* TA: Kate Meldrum (she/her)
+
 Email: kmm4ap@virginia.edu
-Office Hour: Wednesday 1:00-2:00 pm
-Location: Dell 1 Lobby or Zoom if requested
+
+Office Hour: Wednesday 1:00-2:00 pm. Location: Dell 1 Lobby or Zoom if requested
